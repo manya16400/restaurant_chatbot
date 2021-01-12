@@ -11,4 +11,4 @@ Developed a chatbot that can work with the knowledge base using <b>Dialogflow</b
 
 Screenshot of the chatbot- 
 
-![alt text](http://url/to/img.png)
+![alt text](chatbot_eg.JPG)
